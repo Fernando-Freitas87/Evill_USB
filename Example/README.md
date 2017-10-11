@@ -1,4 +1,7 @@
-##How to create the shortcut (.lnk)
+**https://samdd.me**
+
+
+## How to create the shortcut (.lnk)
 1. Create a shortcut to any file in the root folder
 2. Go to properties and change the `Target` to
 
