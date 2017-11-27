@@ -59,4 +59,4 @@ I'm open to your suggestions, feedback and new ideas. There's much more to come 
 
 ## Credits
 
-EvilUSB was created by [@0xCoto](https://github.com/0xCoto).
+EvilUSB concept was created by [@0xCoto](https://github.com/0xCoto), actual source code by [samdenty99](https://github.com/samdenty99).
