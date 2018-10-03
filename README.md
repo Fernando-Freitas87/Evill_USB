@@ -51,14 +51,14 @@ Definitely not. Considering you'll be sacrificing your USB Flash Drive, it is no
 
 ## So, what should I do if I want to perform this attack "for educational purposes"?
 
-Since this Social Engineering attack does not require a USB Flash Drive with over 64MB Capacity Storage, it is recommended that you order a couple of some cheap 64MB USB Flash Drives. (See below)
+Since this Social Engineering attack does not require a USB Flash Drive with over 64MB Capacity Storage, it is recommended that you order a couple of some cheap 64MB USB Flash Drives.
 
-## Suggestions
+## Demonstration
 
-I'm open to your suggestions, feedback and new ideas. There's much more to come to this Project, and I'm happy to announce that I finally got done publishing this idea and creating a Proof-of-Concept (PoC) EvilUSB.
+[![](https://img.youtube.com/vi/-2OkljFzW3s/0.jpg)](https://www.youtube.com/watch?v=-2OkljFzW3s)
 
 ## Credits
 
-EvilUSB concept was created by [@0xCoto](https://github.com/0xCoto), actual source code by [samdenty99](https://github.com/samdenty99).
+EvilUSB was created by [@0xCoto](https://github.com/0xCoto).
 
 [![Analytics](https://ga-beacon.appspot.com/UA-85426772-5/EvilUSB/?pixel)](https://github.com/igrigorik/ga-beacon)
